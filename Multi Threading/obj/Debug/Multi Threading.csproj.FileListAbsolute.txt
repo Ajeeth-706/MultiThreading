@@ -1,0 +1,10 @@
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\bin\Debug\Multi Threading.exe.config
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\bin\Debug\Multi Threading.exe
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\bin\Debug\Multi Threading.pdb
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\obj\Debug\Multi Threading.csproj.AssemblyReference.cache
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\obj\Debug\Multi_Threading.Form1.resources
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\obj\Debug\Multi_Threading.Properties.Resources.resources
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\obj\Debug\Multi Threading.csproj.GenerateResource.cache
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\obj\Debug\Multi Threading.csproj.CoreCompileInputs.cache
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\obj\Debug\Multi Threading.exe
+C:\Users\Sightspectrum\source\repos\Multi Threading\Multi Threading\obj\Debug\Multi Threading.pdb
